@@ -27,12 +27,12 @@
 3.  **Monitor:** Use the dashboard to track system health and initiate a **Deep Scan**.
 4.  **Log Generation:** Upon execution, the tool will create `sentinel_core.dat` on your Desktop to record all security events.
 
-## 🔐 Log Decryption (OMEGA-SHIELD)
+## 🔐 Log Decryption (SENTINEL-DECRYPTOR)
 
 To maintain the integrity of security data, all generated logs are encrypted. 
 
 > [!CAUTION]
-> **Logs are not readable in standard text editors.** Accessing the readable `.txt` format requires the **OMEGA-SHIELD Master Admin Tool** and the private decryption key.
+> **Logs are not readable in standard text editors.** Accessing the readable `.txt` format requires the **CIPHER-SENTINEL MASTER ADMIN TOOL** and the private decryption key.
 
 ## 📧 Contact & Support
 
